@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc3ad47921593e04fbf565af180d04a4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127762
+  packageName: Cyberpunk City Modular Kit
+  packageVersion: 1.0
+  assetPath: Assets/CyberPunk_City/Prefabs/Column_and_pine.prefab
+  uploadId: 312971

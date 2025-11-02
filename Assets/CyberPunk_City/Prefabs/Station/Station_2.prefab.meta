@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c355a61457a8cbc4ba41d91aed63465c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127762
+  packageName: Cyberpunk City Modular Kit
+  packageVersion: 1.0
+  assetPath: Assets/CyberPunk_City/Prefabs/Station/Station_2.prefab
+  uploadId: 312971

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4abd737f4d5479740b58664690d6df17
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127762
+  packageName: Cyberpunk City Modular Kit
+  packageVersion: 1.0
+  assetPath: Assets/CyberPunk_City/Scripts/Camera_particale.cs
+  uploadId: 312971

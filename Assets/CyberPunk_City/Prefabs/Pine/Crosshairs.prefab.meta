@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c029989c3026a04091927f64c5c1650
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127762
+  packageName: Cyberpunk City Modular Kit
+  packageVersion: 1.0
+  assetPath: Assets/CyberPunk_City/Prefabs/Pine/Crosshairs.prefab
+  uploadId: 312971

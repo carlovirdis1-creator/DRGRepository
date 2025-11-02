@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0fb55bedec93e8b4d87bc6659c6065ce
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127762
+  packageName: Cyberpunk City Modular Kit
+  packageVersion: 1.0
+  assetPath: Assets/CyberPunk_City/Prefabs/VFX/Fire.prefab
+  uploadId: 312971

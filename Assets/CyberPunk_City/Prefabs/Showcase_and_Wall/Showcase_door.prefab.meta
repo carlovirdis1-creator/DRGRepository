@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 79adba5d1d2824b459cad2b2f865eb0e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127762
+  packageName: Cyberpunk City Modular Kit
+  packageVersion: 1.0
+  assetPath: Assets/CyberPunk_City/Prefabs/Showcase_and_Wall/Showcase_door.prefab
+  uploadId: 312971

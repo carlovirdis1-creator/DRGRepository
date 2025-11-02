@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 050aaff71fa3a6a46abb42df0a7c139f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127762
+  packageName: Cyberpunk City Modular Kit
+  packageVersion: 1.0
+  assetPath: Assets/CyberPunk_City/Prefabs/Police car.prefab
+  uploadId: 312971

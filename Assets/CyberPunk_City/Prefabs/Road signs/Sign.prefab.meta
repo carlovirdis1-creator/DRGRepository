@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac9ba3b2c15dcf44d937402d58ba9937
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127762
+  packageName: Cyberpunk City Modular Kit
+  packageVersion: 1.0
+  assetPath: Assets/CyberPunk_City/Prefabs/Road signs/Sign.prefab
+  uploadId: 312971

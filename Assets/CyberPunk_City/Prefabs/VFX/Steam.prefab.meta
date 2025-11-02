@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec93afa123d09ff43b9a5d3abb5ce959
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127762
+  packageName: Cyberpunk City Modular Kit
+  packageVersion: 1.0
+  assetPath: Assets/CyberPunk_City/Prefabs/VFX/Steam.prefab
+  uploadId: 312971

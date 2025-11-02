@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9e49f31fc99616641b247794a7e3d1e5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127762
+  packageName: Cyberpunk City Modular Kit
+  packageVersion: 1.0
+  assetPath: Assets/CyberPunk_City/VFX/Rain/Rain.prefab
+  uploadId: 312971

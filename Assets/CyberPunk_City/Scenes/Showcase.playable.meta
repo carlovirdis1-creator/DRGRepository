@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1fd79dd1f4739fd4cac67e2fdb49d1e9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127762
+  packageName: Cyberpunk City Modular Kit
+  packageVersion: 1.0
+  assetPath: Assets/CyberPunk_City/Scenes/Showcase.playable
+  uploadId: 312971

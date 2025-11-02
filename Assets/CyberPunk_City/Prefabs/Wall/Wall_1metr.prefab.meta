@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 901d41b5c616ec74696b1b5e37533a41
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127762
+  packageName: Cyberpunk City Modular Kit
+  packageVersion: 1.0
+  assetPath: Assets/CyberPunk_City/Prefabs/Wall/Wall_1metr.prefab
+  uploadId: 312971

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 265dbc59a56488d47b5e35db05d5936d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127762
+  packageName: Cyberpunk City Modular Kit
+  packageVersion: 1.0
+  assetPath: Assets/CyberPunk_City/Prefabs/Trash/Packaging.prefab
+  uploadId: 312971

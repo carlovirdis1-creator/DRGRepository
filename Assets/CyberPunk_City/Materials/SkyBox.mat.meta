@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c0cf0360688423542a29ae16e44f145c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127762
+  packageName: Cyberpunk City Modular Kit
+  packageVersion: 1.0
+  assetPath: Assets/CyberPunk_City/Materials/SkyBox.mat
+  uploadId: 312971

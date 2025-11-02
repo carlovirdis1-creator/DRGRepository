@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4d9c97aaea5c8b6419480e62900d1fb7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127762
+  packageName: Cyberpunk City Modular Kit
+  packageVersion: 1.0
+  assetPath: Assets/CyberPunk_City/Prefabs/Wall/Wall_3_Window.prefab
+  uploadId: 312971

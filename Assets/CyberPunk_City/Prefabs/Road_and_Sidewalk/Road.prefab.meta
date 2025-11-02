@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9a971b31b8b14cc4a85204414b0e7dc8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127762
+  packageName: Cyberpunk City Modular Kit
+  packageVersion: 1.0
+  assetPath: Assets/CyberPunk_City/Prefabs/Road_and_Sidewalk/Road.prefab
+  uploadId: 312971

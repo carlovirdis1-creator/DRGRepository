@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6565cb2cf7a986b479e2002a6c233847
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127762
+  packageName: Cyberpunk City Modular Kit
+  packageVersion: 1.0
+  assetPath: Assets/CyberPunk_City/Scenes/Post-processing Profile.asset
+  uploadId: 312971

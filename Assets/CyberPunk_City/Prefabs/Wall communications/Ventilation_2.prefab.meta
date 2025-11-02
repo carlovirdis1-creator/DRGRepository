@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7f5590cc0271bb6468807641e6fae97f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127762
+  packageName: Cyberpunk City Modular Kit
+  packageVersion: 1.0
+  assetPath: Assets/CyberPunk_City/Prefabs/Wall communications/Ventilation_2.prefab
+  uploadId: 312971

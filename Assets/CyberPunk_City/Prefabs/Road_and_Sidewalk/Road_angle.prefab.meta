@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3f8e2c3fe03181444a92d185a9f10b0c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127762
+  packageName: Cyberpunk City Modular Kit
+  packageVersion: 1.0
+  assetPath: Assets/CyberPunk_City/Prefabs/Road_and_Sidewalk/Road_angle.prefab
+  uploadId: 312971

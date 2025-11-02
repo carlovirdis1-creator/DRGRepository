@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 34f9200c223b46442add12d8348e3c1c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 25800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127762
+  packageName: Cyberpunk City Modular Kit
+  packageVersion: 1.0
+  assetPath: Assets/CyberPunk_City/Scenes/Showcase/LightingData.asset
+  uploadId: 312971

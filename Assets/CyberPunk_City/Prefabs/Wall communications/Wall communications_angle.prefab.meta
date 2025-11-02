@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 40bcd9b8ebd48d449abd00753f2f6553
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127762
+  packageName: Cyberpunk City Modular Kit
+  packageVersion: 1.0
+  assetPath: Assets/CyberPunk_City/Prefabs/Wall communications/Wall communications_angle.prefab
+  uploadId: 312971

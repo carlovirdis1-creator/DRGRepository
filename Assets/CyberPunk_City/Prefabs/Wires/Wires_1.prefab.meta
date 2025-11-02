@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e61ff19cc6ad36846b33b4498f8d0c5e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127762
+  packageName: Cyberpunk City Modular Kit
+  packageVersion: 1.0
+  assetPath: Assets/CyberPunk_City/Prefabs/Wires/Wires_1.prefab
+  uploadId: 312971
